@@ -24,3 +24,7 @@
 ## 另一个项目
 
 [NestJS OAuth2 Starter：Google、GitHub、JWT、Redis、PostgreSQL – 准备投入生产](https://dev.to/jimmycamus/nestjs-oauth2-starter-google-github-jwt-redis-postgresql-ready-for-production-225d)
+
+## 文章
+
+[在 NestJS 中构建身份验证和 RBAC：深入探讨警卫、策略和几乎让我崩溃的错误](https://medium.com/@manasagg7199/building-authentication-rbac-in-nestjs-a-deep-dive-into-guards-strategies-and-the-bug-that-62e4bed0b0a7)
