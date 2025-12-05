@@ -1,4 +1,5 @@
 ### Abstract
+https://dev.to/zenstack/11-tips-that-help-you-become-a-better-typescript-programmer-4ca1?bb=473
 本文综合介绍了 Typescript 的若干高级用法与思维方式，强调通过集合论思维理解类型、利用自动缩小、区分联合类型、使用类型谓词与断言、控制推断行为、以及在实际编码中偏好类型（type）而非接口（interface）、使用元组、以及 infer 等特性，以提升对语言潜力的把握。
 
 ### Key Points
