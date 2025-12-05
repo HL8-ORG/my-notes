@@ -1,5 +1,7 @@
 [停止重建认证：一个适用于NestJS的生产准备JWT + RBAC模板](https://medium.com/@sabin.shrestha.er/stop-rebuilding-auth-a-production-ready-jwt-rbac-template-for-nestjs-18d99f9b8944)
+
 [作者](https://github.com/masabinhok)
+
 ### Abstract
 本文介绍了一套面向 NestJS 的生产就绪认证与 RBAC 模板，集成 JWT、刷新令牌轮换、HttpOnly Cookies、分级访问控制、多设备会话、速率限制等安全特性，目标是在短时间内搭建一个安全、简洁、可扩展的后端认证系统，并提供快速上手的快速开始指引与未来发展方向。
 
@@ -18,3 +20,7 @@
 - [如何将该模板扩展以支持更多身份验证策略（例如 OAuth、2FA）？](#related)
 - [在生产环境中如何进一步加强对令牌的监控与审计以满足合规性要求？](#related)
 - [若要在现有 NestJS 项目中迁移该模板，需关注哪些兼容性与重构要点？](#related)
+
+## 另一个项目
+
+[NestJS OAuth2 Starter：Google、GitHub、JWT、Redis、PostgreSQL – 准备投入生产](https://dev.to/jimmycamus/nestjs-oauth2-starter-google-github-jwt-redis-postgresql-ready-for-production-225d)
